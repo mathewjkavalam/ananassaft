@@ -15,4 +15,4 @@ a file called ```.gitattributes``` $$^{3}$$ .
 ### References
 * [1] [Github 2025](https://docs.github.com/en/get-started/git-basics/configuring-git-to-handle-line-endings#about-line-endings)
 * [2] [Overleaf.com](https://www.overleaf.com/)
-* [3] [Github 2025](https://docs.github.com/en/get-started/git-basics/configuring-git-to-handle-line-endings#about-line-endings)
+* [3] [Github 2025](https://docs.github.com/en/get-started/git-basics/configuring-git-to-handle-line-endings#per-repository-settings)
