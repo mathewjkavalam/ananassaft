@@ -1,3 +1,4 @@
+[Return Home](https://github.com/mathewjkavalam/ananassaft/blob/main/index.md)/[Go Back](https://github.com/mathewjkavalam/ananassaft/blob/main/obvious.md)
 # How to end it well! Line endings and git
 Line endings are invisible characters that are inserted when we press return key $$^{1}$$.
 For example an online Latex document authoring platform, that I recently used $$^{2}$$ uses ```LF``` as the line ending character.
